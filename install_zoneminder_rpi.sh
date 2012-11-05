@@ -31,9 +31,9 @@ install()
 
 #Preseed configuration dpkg UNUSED FOR NOW
 #debconf-set-selections << END
-#sun-java6-jdk shared/accepted-sun-dlj-v1-1 boolean true
-#sun-java6-jre shared/accepted-sun-dlj-v1-1 boolean true
-#sun-java6-bin shared/accepted-sun-dlj-v1-1 boolean true
+#[EXAMPLE] sun-java6-jdk shared/accepted-sun-dlj-v1-1 boolean true
+#[EXAMPLE] sun-java6-jre shared/accepted-sun-dlj-v1-1 boolean true
+#[EXAMPLE] sun-java6-bin shared/accepted-sun-dlj-v1-1 boolean true
 #END
 
 #update repos; install from repos
