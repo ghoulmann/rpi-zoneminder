@@ -6,7 +6,7 @@ Powerful web-based surveillance system for USB or IP cameras and the Rasperry Pi
 <li><a href="http://www.tuxradar.com/content/build-your-own-surveillance-zoneminder">TuxRadar</a></li>
 </ul>
 <h2>How To</h2>
-<ul><li>If you're using USB cams connected to the Raspberry Pi, use https://github.com/ghoulmann/pi-face.
+<ul><li>If you're using USB cams connected to the Raspberry Pi, use https://github.com/ghoulmann/pi-cam.
 <li>Have unfettered internet access
 <li>Execute the script as root
 <li>On a remote computer, access at http://ipaddr/zm to configure cams
